@@ -1,0 +1,15 @@
+Ingredients:
+ - peanut butter
+ - jelly (grape or strawberry)
+ - 2 slices of bread
+
+Directions:
+ 1. Place bread onto a plate.
+ 
+ 2. Using a knife, spread your desired amount of peanut butter on one slice of 
+    bread.
+ 
+ 3. On top of the other slice, spread as much jelly as you'd like.
+ 
+ 4. Lift up the slice with peanut butter on it and set it on top of the other, 
+    such that the peanut butter and jelly sides face each other.
